@@ -8,7 +8,7 @@ Track objects using Python and OpenCV.
 
 ## Command format
 
-_$ object_tracker.py [-h] [-v VIDEO] [-t TRACKER]_
+_$ python object_tracker.py [-h] [-v VIDEO] [-t TRACKER]_
 
 - VIDEO: path to input video file. If it is not specified, the input will be image streaming from webcam.
 - TRACKER: the type of tracker that will be used. There are 7 types of tracker that can be used:
